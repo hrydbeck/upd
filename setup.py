@@ -17,9 +17,9 @@ from setuptools.command.test import test as TestCommand
 # Package meta-data.
 NAME = 'upd'
 DESCRIPTION = 'Simple software to call UPD regions from germline exome/wgs trios.'
-URL = 'https://github.com/bjhall/upd'
-EMAIL = 'bjorn.hallstrom@skane.se'
-AUTHOR = 'Björn Hallström'
+URL = 'https://github.com/hrydbeck/upd'
+EMAIL = 'halfdan.rydbeck@regionostergotland.se'
+AUTHOR = 'Halfdan Rydbeck'
 REQUIRES_PYTHON = '>=3.6'
 VERSION = None
 
