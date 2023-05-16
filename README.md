@@ -1,6 +1,6 @@
 ## UPD.py
 
-Simple software to call UPD regions from germline exome/wgs trios.
+Simple software to call UPD regions from germline exome/wgs trios. Developed by Björn Hallström. This repository was forked from https://github.com/bjhall/upd.
 
 ## Documentation
 
